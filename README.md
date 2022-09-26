@@ -226,10 +226,3 @@ Crea un nuevo documento HTML con el título "Elementos de Interés en Bootstrap"
     - Una breve descripción
 
     - Tu email en el footer
-
-### Ejercicio 
----
-
-### Ejercicio 
----
-
