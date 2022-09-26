@@ -3,7 +3,7 @@
 ### Ejercicio 1
 ---
 
-1. Crea un nuevo documento HTML e implementa lo siguiente:
+Crea un nuevo documento HTML e implementa lo siguiente:
 
 - Utiliza la etiqueta de título para poner en el título "Ejercicio de Introducción a HTML en OpenBootcamp"
 
@@ -22,7 +22,7 @@
 
 ### Ejercicio 2
 ---
-1. Crea un nuevo documento HTML que cumpla los siguientes parámetros:
+Crea un nuevo documento HTML que cumpla los siguientes parámetros:
 
 - El título debe ser "Ejercicio 02 - Formularios en HTML"
 
@@ -44,7 +44,7 @@
 
 ### Ejercicio 3
 ---
-1. Crea un nuevo documento HTML que cumpla los siguientes parámetros:
+Crea un nuevo documento HTML que cumpla los siguientes parámetros:
 
 - El título debe ser "Ejercicio 02/2 - Tablas en HTML"
 
@@ -56,7 +56,7 @@
 
 ### Ejercicio 4
 ---
-1. Crea un nuevo documento HTML que cumpla los siguientes parámetros:
+Crea un nuevo documento HTML que cumpla los siguientes parámetros:
 
 - Debe estar dividido en tres secciones (etiqueta)
 
@@ -88,7 +88,7 @@
 
 ### Ejercicio 5
 ---
-1. Crea un nuevo documento HTML con el título "Ganando precisión con los selectores en CSS"
+Crea un nuevo documento HTML con el título "Ganando precisión con los selectores en CSS"
 
 - Crea un nuevo fichero CSS e impórtalo en el documento HTML principal
 
@@ -111,8 +111,18 @@
     - Modifica el CSS para que el primer elemento de cada lista se muestre de color rojo
 
     - A través del encadenamiento de selectores, haz que el primer elemento de la primera lista tenga un tamaño de letra de 2rem
-### Ejercicio 
+### Ejercicio  6
 ---
+
+Crea un nuevo documento HTML con el título "Disposición de elementos en CSS"
+
+- Crea un nuevo fichero CSS e impórtalo en el documento HTML principal
+
+- Utiliza la disposición flex-box para crear una galería de 6 imágenes con los siguientes parámetros
+
+    - Las imágenes deben tener 300 píxeles de ancho
+
+    - Deben reagruparse (wrap) cuando el ancho del viewport cambia
 
 ### Ejercicio 
 ---
